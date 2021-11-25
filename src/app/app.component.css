@@ -1,0 +1,10 @@
+.background-footer{
+    position: fixed;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+    background-color: dimgray;
+}
+.footertextpos{
+    padding: 15px 10px 10px 350px;
+}

@@ -1,0 +1,16 @@
+#photo{
+    padding: 50px 50px 50px 50px;
+}
+#info{
+    padding: 30px 100px 30px 200px;
+}
+.background-info{
+    background-color: silver;
+}
+.background-center{
+    background-color: rgb(219, 219, 219);
+    width: 100%;
+}
+.in{
+    padding-left: 30px;
+}
